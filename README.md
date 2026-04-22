@@ -74,3 +74,4 @@ All components are built with React and styled using Tailwind CSS for easy custo
 - 500+ dashboard components and UI elements
 - Complete Figma design file
 - Email support
+ 
